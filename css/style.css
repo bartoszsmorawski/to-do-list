@@ -11,10 +11,5 @@ html {
     margin: 0 auto;
     font-family:"Lato";
     background-color: #eee;
-    word-break: break-word;
-}
-
-.header__importantHeader {
-    font-weight: bolder;
-    margin: 50px 10px 20px 10px;
+    word-break: break-word;  
 }
