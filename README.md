@@ -31,7 +31,7 @@ With this list, you can easily make a to-do list. In any way, you can add, **cro
 
 ## CSS:
 
-This folder is divided into **3 files** : **container.css, list.css, style.css**. Each of them steels individual elements on the page.
+This folder is divided into **4 files** : **container.css, list.css, style.css and buttons**. Each of them steels individual elements on the page.
 
 ## JavaScript:
 
